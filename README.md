@@ -4,6 +4,10 @@
 
 This project implements the Heston Model for option pricing, utilizing the Fourier-Cosine (COS) method and the Almost Exact Simulation (AES) method. It includes Monte Carlo simulations, characteristic function calculations, and variance processes to achieve efficient and accurate derivative pricing.
 
+
+https://github.com/user-attachments/assets/44b7b488-f56b-40f0-81b0-58003a4cb0bb
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
